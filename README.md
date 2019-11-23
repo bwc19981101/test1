@@ -6,4 +6,4 @@
 
 ###有HTML5,jquery,css3,bootstrap框架
 
-###还用到的插件waypoint，popper，OWL等。
+###还用到的插件waypoint，popper等。
